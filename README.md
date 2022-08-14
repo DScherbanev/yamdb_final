@@ -1,4 +1,4 @@
-https://github.com/DScherbanev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![example workflow](https://github.com/DScherbanev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # Проект YaMDb
 Проект **YaMDb** собирает отзывы пользователей на различные произведения.
