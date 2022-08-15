@@ -1,5 +1,7 @@
 ![example workflow](https://github.com/DScherbanev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Адрес сайта: http://dimrnd.ru (http://62.84.121.53)
+
 # Проект YaMDb
 Проект **YaMDb** собирает отзывы пользователей на различные произведения.
 В данном проекте описан API для работы с YaMDb.
